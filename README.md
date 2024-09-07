@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=我的技能板块)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasaitong)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=近日活动)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wasaitong)

@@ -1,17 +1,8 @@
-## Hi 欢迎进入我的主页 👋
-
-<!--
-**wasaitong/wasaitong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm still a student
-- 🌱 I’m currently learning R,SQL,Python
-- 👯 Looking for an internship
-- 📫 How to reach me: wasaitong71@163.com
-
-
--->
+## 嘿！很高兴见到你。
+欢迎来到我的页面！
+我是鸽哩个李，来自中国的数据分析专业的学生，目前居住在中国。
+- 我编码时使用的事物
+- 
 - 技术
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasaitong)
 - 
